@@ -1,0 +1,28 @@
+_repo: One-Basket_489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferber, Edna
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '193'
+    url: http://www.gutenberg.org/2009/agents/193
+    wikipedia: http://en.wikipedia.org/wiki/Edna_Ferber
+description: ''
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- GITenberg
+tableOfContents: The woman who tried to be good -- The gay old dog -- That's marriage
+  -- Farmer in the dell -- Un morso doo pang -- Long distance -- The maternal feminine.
+title: One Basket
+url: http://www.gutenberg.org/ebooks/489
